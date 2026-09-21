@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "cli-spark",
+    "owner": "octocat",
+    "description": "A lightweight toolkit for building polished command-line apps.",
+    "language": "TypeScript",
+    "starred_at": "2026-09-02",
+    "html_url": "https://github.com/octocat/cli-spark"
+  },
+  {
+    "id": 2,
+    "name": "tiny-http-lab",
+    "owner": "monalisa",
+    "description": "Examples for testing HTTP handlers and local API contracts.",
+    "language": "JavaScript",
+    "starred_at": "2026-09-07",
+    "html_url": "https://github.com/monalisa/tiny-http-lab"
+  },
+  {
+    "id": 3,
+    "name": "data-viz-notes",
+    "owner": "hubot",
+    "description": "Reference projects for approachable charts and dashboard layouts.",
+    "language": "CSS",
+    "starred_at": "2026-09-12",
+    "html_url": "https://github.com/hubot/data-viz-notes"
+  }
+]
